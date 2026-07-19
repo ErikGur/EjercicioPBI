@@ -347,6 +347,6 @@ Antes de publicar o ejecutar el proyecto completo, se recomienda revisar los sig
 
 ## Autor
 
-**Richard Huerta Quezada**
+**Erik Gutierrez**
 
 Proyecto desarrollado como ejercicio transversal de análisis de datos con Python, SQL Server y Power BI.
