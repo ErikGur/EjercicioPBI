@@ -198,7 +198,7 @@ El archivo `Tablero_de_control.pbix` contiene una página interactiva con:
 - monto y volumen por grupo de edad;
 - segmentadores por suscripción, género, categoría y tipo de envío.
 
-![Vista previa del dashboard](https://github.com/ErikGur/EjercicioPBI/blob/main/dashboard_preview.png)
+![Vista previa del dashboard](assets/dashboard.png)
 
 > El archivo PBIX fue guardado con **Free Shipping** seleccionado en el segmentador de tipo de envío. Para visualizar los resultados globales, se debe limpiar esa selección.
 
